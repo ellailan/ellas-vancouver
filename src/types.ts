@@ -4,6 +4,8 @@ export type Category =
   | 'Treats & Coffee'
   | 'Shopping & Trinkets'
   | 'UBC / Campus'
+  | 'Entertainment'
+  | 'Views'
 
 export interface Location {
   id: string

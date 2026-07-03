@@ -36,6 +36,20 @@ export const categories: CategoryMeta[] = [
     color: '#3F5D4E',
     colorDark: '#2A4136',
   },
+  {
+    id: 'Entertainment',
+    label: 'Entertainment',
+    emoji: '🎬',
+    color: '#8B5A9C',
+    colorDark: '#6B3D7A',
+  },
+  {
+    id: 'Views',
+    label: 'Views',
+    emoji: '🌄',
+    color: '#5B8C5A',
+    colorDark: '#3D5E3C',
+  },
 ]
 
 export const categoryById = new Map(categories.map((c) => [c.id, c]))
