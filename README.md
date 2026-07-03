@@ -1,4 +1,4 @@
-# Places I Can't Wait to Take You 📍
+# Places I Can't Wait to Take You <3 
 
 A hand-curated, scrapbook-style interactive map of Vancouver — built as a personal gift. Every pin is a real place with a real memory attached, filterable by category, searchable by name, and ready to explore with a "Random Date Idea" button.
 
