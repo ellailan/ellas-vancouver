@@ -254,6 +254,15 @@ export const locations: Location[] = [
     description: 'Korean shaved ice!',
   },
   {
+    id: 'le-marche-st-george',
+    name: 'Le Marché St. George',
+    category: 'Treats & Coffee',
+    address: '4393 St George St, Vancouver, BC',
+    latitude: 49.246102888586876,
+    longitude: -123.0944347,
+    description: 'The best hidden spot and the best crepes!',
+  },
+  {
     id: 'icy-bar',
     name: 'Icy Bar',
     category: 'Treats & Coffee',
