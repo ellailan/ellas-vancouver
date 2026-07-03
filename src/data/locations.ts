@@ -248,13 +248,19 @@ export const locations: Location[] = [
     id: 'snowy-village',
     name: 'Snowy Village',
     category: 'Treats & Coffee',
-    // FLAG: no Snowy Village location found on Kingsway in Burnaby. Real
-    // BC location is 8571 Alexandra Rd, Richmond. Coordinates below are
-    // for that Richmond location — confirm.
-    address: '4500 Kingsway, Burnaby, BC',
+    address: '8571 Alexandra Rd, Richmond, BC',
     latitude: 49.17858,
     longitude: -123.12797,
     description: 'Korean shaved ice!',
+  },
+  {
+    id: 'icy-bar',
+    name: 'Icy Bar',
+    category: 'Treats & Coffee',
+    address: '8278 Granville Street, Vancouver, BC',
+    latitude: 49.21170156418282,
+    longitude: -123.14013991534239,
+    description: 'Sleeper hit.',
   },
   {
     id: 'earnest-ice-cream-fraser',
